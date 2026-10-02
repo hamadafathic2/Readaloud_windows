@@ -4,6 +4,23 @@ A modern Windows 11 desktop application to read any English text anywhere on you
 
 ---
 
+## 📥 Direct Download & Installation (Windows 10 / 11)
+
+No coding or Python installation needed! Anyone can install and run **ReadAloud Desktop AI** in seconds:
+
+[![Download Windows Installer](https://img.shields.io/badge/Download-Windows_Installer_(v1.0.0)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hamadafathic2/Readaloud_windows/releases/download/v1.0.0/ReadAloud-Setup-v1.0.exe)
+
+| Package | Download Link | Description | Size |
+| :--- | :--- | :--- | :--- |
+| **Windows Setup Wizard** *(Recommended)* | [**`ReadAloud-Setup-v1.0.exe`**](https://github.com/hamadafathic2/Readaloud_windows/releases/download/v1.0.0/ReadAloud-Setup-v1.0.exe) | Official Windows 11 setup wizard with Start Menu & Desktop shortcuts | ~135 MB |
+| **All Releases & Updates** | [**GitHub Releases**](https://github.com/hamadafathic2/Readaloud_windows/releases) | Changelog, checksums, and version history | — |
+
+### How to Install:
+1. Download [**`ReadAloud-Setup-v1.0.exe`**](https://github.com/hamadafathic2/Readaloud_windows/releases/download/v1.0.0/ReadAloud-Setup-v1.0.exe).
+2. Double-click the installer and follow the standard Windows Setup wizard.
+3. Launch **ReadAloud Desktop AI** from your Start Menu or Desktop!
+4. Select any text on your screen and press `Ctrl + Alt + R` or click the floating circle to read it aloud.
+
 ## ✨ Features
 
 - **🗣 100% Local Neural AI Sound**:
